@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+.app-component {
+    border: 2px solid red;
+    background-color: lavenderBlush;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+
+  table {
+    width: 100%;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 15px;
+  }
+
+  .material-icons
+  {
+      color: red;
+      border: 1px gray solid;
+      border-radius: 100%
+  }
